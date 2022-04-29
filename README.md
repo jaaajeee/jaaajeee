@@ -48,7 +48,8 @@ I have proficient in design & basic coding skills, as well as an ability to plan
 
 ###  Connect with Me 🤝🏻
 <div align="center">
-<a href="www.linkedin.com/in/wichuda-kruejanta-0785a6236" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@WichudaKru-blue?style=flat&logo=linkedin"></a>
+          
+<a href="www.linkedin.com/in/wichuda-kruejanta-0785a6236" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-wichudakruejanta-blue?style=flat&logo=linkedin"></a>
   
 <a href="https://jaajee-portfolio.netlify.app" target="_blank">
   <img alt="Website" src="https://img.shields.io/badge/website-jajeeportfolios-blue?style=flat&logo=google-chrome">
