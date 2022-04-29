@@ -3,8 +3,8 @@
           <h2 align="center">Profile</h2>
 </p>
 
-### 👋 Hi, I’m @jaaajeee [Wihuda Kruejanta] 
->I'm a newbie programmer
+### 👋 Hi, I’m @jaaajeee [Wichuda Kruejanta]
+>I'm a newbie programmer.
 
 >
 👀 I’m interested in .. 
