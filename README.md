@@ -14,9 +14,11 @@
 
 <div>
  <p>
-I am newbie developer able to build a weppage with programming. Fast learner, hard worker and team player who is proficient in communicate with a team.
 
-I have proficient in design & basic coding skills, as well as an ability to plan and coordinate with orther.
+I am a newbie developer able to build a webpage with programming. Fast learner, hard worker and team player who is proficient in communicating with a team.
+           
+<!-- I am proficient in design & basic coding skills, as well as an ability to plan and coordinate with others. -->
+
 </p>
 </div>
 
