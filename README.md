@@ -8,10 +8,14 @@
 
 >
 👀 I’m interested in .. 
-- design 🧏🏻
+- design researcher🧏🏻
 - Frontend Developer 👩🏻‍💻
 - 🌱 I’m currently practice more Javascript!! 
 
+ 🥅 My target ..
+ - Frontend Developer > Backend Developer > Fullstack Developer
+ 
+ 
 <div>
  <p>
 
