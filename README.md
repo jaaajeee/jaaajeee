@@ -8,9 +8,9 @@
 
 >
 👀 I’m interested in .. 
-- UX design 🧏🏻
+- design 🧏🏻
 - Frontend Developer 👩🏻‍💻
-- 🌱 I’m currently practice more!! 
+- 🌱 I’m currently practice more Javascript!! 
 
 <div>
  <p>
