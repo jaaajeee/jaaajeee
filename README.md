@@ -10,7 +10,7 @@
 👀 I’m interested in .. 
 - design researcher🧏🏻
 - Frontend Developer 👩🏻‍💻
-- 🌱 I’m currently practice more Javascript!! 
+- 🌱 I’m currently practice more Javascript and Learning Python.
 
  🥅 My target ..
  - Frontend Developer > Backend Developer > Fullstack Developer
