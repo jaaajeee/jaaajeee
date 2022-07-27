@@ -4,13 +4,21 @@
 </p>
 
 ### 👋 Hi, I’m @jaaajeee [Wichuda Kruejanta]
->I'm a newbie programmer.
+>I'm a newbie web developer.
 
 >
 👀 I’m interested in .. 
 - design researcher🧏🏻
 - Frontend Developer 👩🏻‍💻
-- 🌱 I’m currently practice more Javascript and Learning Python.
+- 🌱 I’m currently practice 
+more 
+Javascript
+Typescript
+SASS
+C#
+Python
+
+
 
  🥅 My target ..
  - Frontend Developer > Backend Developer > Fullstack Developer
